@@ -1,6 +1,5 @@
 engagements/question_fields_scores
 analytics/industry_statistics
 engagements/question_fields
-engagements/question_fields_scores
 analytics/industry_statistics
-engagements/question_fields
+engagements/question_categories
