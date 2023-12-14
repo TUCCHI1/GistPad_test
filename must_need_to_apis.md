@@ -5,5 +5,3 @@ analytics/industry_statistics
 engagements/question_categories
 engagements/importance/deliveries/56032
 engagement_reports
-analytics/industry_statistics
-engagements/question_fields
